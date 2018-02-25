@@ -1,0 +1,17 @@
+Exercice 1:
+
+Encapsulation:
+
+It consists of hiding the data which can only be accessible through methods.
+
+Inheritance:
+
+It is when a class can acquire the properties and methods of another class.
+
+Abstraction:
+
+It allows the users to take on what a class does something rather than seeking how it does it.
+
+Polymorphism:
+
+It is the ability of an object to take on many forms.
